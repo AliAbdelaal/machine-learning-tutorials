@@ -1,0 +1,41 @@
+# Logs
+logs
+*.log
+*.cache
+*.idea
+.ipynb_checkpoints/
+
+# Tmp
+tmp
+*.tmp.*
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# additional repos goes here
+
+# Dependency directories for virtualenv
+bin
+lib
+include
+env
+virtual-env
+
+
+
+# config files
+config.py
+
+# additional pip files
+pip-*
+
+# additional files
+__pycache__
+
+# VS Code
+.vscode/
+
+# demo test
+demo.py
